@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">number_ded</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="splash_message_text">Welcome To Splash Screen</string>
+    <string name="webview_message">Webview</string>
+    <string name="dialog_title">Support Us By Give 5 Star and Write Your Review</string>
+    <string name="dialog_message">Tell Others What You Think About This App</string>
+
+</resources>
